@@ -1,0 +1,9 @@
+.example-card {
+    max-width: 90%;
+    min-height: auto;
+  }
+
+img {
+
+    align-self: stretch;
+}
