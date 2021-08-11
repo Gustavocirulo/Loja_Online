@@ -8,7 +8,7 @@
   <h3 align="center">Projeto Loja Online</h3>
 
   <p align="center">
-    Projeto em progresso para conhecimente e teste de experiência!
+    Projeto em progresso para conhecimento e aprimoramento profissional!
     <br />
     <a href="https://github.com/Loja_Online/TesteFullstack"><strong>Explore e se divirta »</strong></a>
     <br />
@@ -49,14 +49,14 @@
 <!-- ABOUT THE PROJECT -->
 ## SOBRE O PROJETO
 
-<h3>Loja Online com Angular 8 integrado em Web API ASP.NET Core 4.0</h3>
+<h3>Loja Online com Angular 8 integrado em Web API ASP.NET Core</h3>
 
 Esse Projeto foi criado unicamente para fins experimentais e de aperfeiçoamento em recursos da stack utilizada.
 
 
-### Built With
+### LINKS
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Abaixo coloquei alguns links úteis sobre as tecnologias utilizadas nesse projeto, está longe de estar completa, porém é importante cada um deles.
 * [Angular Material](https://material.angular.io/)
 * [TypeScript](https://www.typescriptlang.org/docs/)
 * [Angular 8](https://v8.angular.io/docs)
@@ -70,15 +70,7 @@ This section should list any major frameworks that you built your project using.
 Para iniciar esse projeto siga os passos de acordo com o esquema abaixo.
 
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install -g @angular/cli
-  ```
-
-### Installation
+### Instalação
 
 1. Pegue o nome do repositório [https://github.com/Gustavocirulo/Loja_Online](https://github.com/Gustavocirulo/Loja_Online)
 2. Clone o repositório
@@ -93,7 +85,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTRIBUTING -->
 ## Contribuindo
 
-<h3> Contribua Deixando um comentário para saber o que ainda precisa ser mudado. Aproveite 😄</h3>
+<h3> Contribua deixando um comentário para saber o que ainda precisa ser mudado. Aproveite 😄</h3>
 
 1. Fork esse projeto
 2. Crie sua branch com sua nova feature (`git checkout -b feature/AmazingFeature`)
